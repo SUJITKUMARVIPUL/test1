@@ -1,6 +1,6 @@
 package com.example.demo.controller;
 
 public class hi {
-    String h = "sangam";
+    String h = "sanm";
     int k= 5;
 }
