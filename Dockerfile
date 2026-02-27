@@ -1,4 +1,4 @@
-FROM amazoncorretto:21
+FROM amazoncorretto:17
 
 COPY target/demo-app.jar  /usr/app/
 
